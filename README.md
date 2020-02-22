@@ -7,4 +7,4 @@ Obtendo diversos dados como: Continente, país, estado, cidade e até uma coorde
 
 # Por que utiliza-la?
 
-Esta ferramenta pode ser bastante útil caso você queira checar a localização que seus visitantes estão ao acessar seu website.
+Esta ferramenta pode ser bastante útil caso você queira checar a localização que seus visitantes estão ao acessar seu website, possibilitando filtrar acessos por regiões/localidades.
