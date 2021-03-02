@@ -9,7 +9,7 @@ Obtendo diversos dados como: Continente, país, estado, cidade e até uma coorde
 
 Logo que o visitante acessar a página na qual o código está instalado alguns dados serão extraídos diretamente do client dele, sendo como a mais relevante o seu endereço de acesso.
 
-Após coletar esse recurso o sistema envia uma requisição para a API "ip2Location" solicitando informações de localização de tal endereço coletado anteriormente, recebendo um json como resposta da API
+Após coletar esse recurso o sistema envia uma requisição para a API "ip2Location" solicitando informações de localização de tal endereço coletado anteriormente, recebendo um json como resposta da API.
 
 No final de sua execução o json é tratado e os dados são separados individualmente, possibilitando a leitura de dados como o continente, país, estado, etc.
 
